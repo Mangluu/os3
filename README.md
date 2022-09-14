@@ -6,4 +6,4 @@ Lab Capsule 2 for OSSE
   ii)  Python Pytorch Library: https://github.com/pytorch/pytorch
 
 
-Author: Dhruv, Shivang
+Author: Dhruv Vohra, Shivang Gupta
